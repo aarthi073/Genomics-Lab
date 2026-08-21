@@ -1,0 +1,41 @@
+TREE_COLORS
+#use this template to define branch colors and styles, colored ranges and label colors/font styles/backgrounds
+#lines starting with a hash are comments and ignored during parsing
+
+#=================================================================#
+#                    MANDATORY SETTINGS                           #
+#=================================================================#
+SEPARATOR SPACE
+
+#=================================================================#
+#       Actual data follows after the "DATA" keyword              #
+#=================================================================#
+DATA
+#NODE_ID TYPE COLOR LABEL_OR_STYLE SIZE_FACTOR
+# Replace placeholder leaf IDs below with your exact tree leaf labels
+
+# --- Ciliates (Ciliophora) - Colored orange/yellow ---
+Tetrahymena_thermophila label #E69F00 bold 1
+Paramecium_tetraurelia label #E69F00 bold 1
+Oxytricha_trifallax label #E69F00 bold 1
+Stentor_coeruleus label #E69F00 bold 1
+
+# --- Other Alveolates - Colored light blue ---
+Plasmodium_falciparum label #56B4E9 normal 1
+Toxoplasma_gondii label #56B4E9 normal 1
+Symbiodinium_microadriaticum label #56B4E9 normal 1
+
+# --- Opisthokonta (Animals/Fungi) - Colored green ---
+Homo_sapiens label #009E73 normal 1
+Drosophila_melanogaster label #009E73 normal 1
+Saccharomyces_cerevisiae label #009E73 normal 1
+Neurospora_crassa label #009E73 normal 1
+
+# --- Archaeplastida (Plants/Algae) - Colored magenta/pink ---
+Arabidopsis_thaliana label #CC79A7 normal 1
+Chlamydomonas_reinhardtii label #CC79A7 normal 1
+Oryza_sativa label #CC79A7 normal 1
+
+# --- Other Outgroups (e.g., Discoba, Amoebozoa) - Colored black ---
+Dictyostelium_discoideum label #000000 normal 1
+Trypanosoma_brucei label #000000 normal 1

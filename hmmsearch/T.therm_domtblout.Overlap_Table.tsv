@@ -1,0 +1,9 @@
+Sequence	Domain	Query Accession	qlen	E-Value	Full Score	hmm_from	hmm_to	ali_from	ali_to	normalized_score
+Tetrahymena_thermophila_00309875_XX_TPB1	Ku_PK_bind	PF08785.17	120	7.1e-11	30.9	17	77	322	381	0.52
+Tetrahymena_thermophila_00309875_XX_TPB1	Ku	PF02735.23	193	5.300000000000001e-28	86.6	5	190	69	259	0.47
+Tetrahymena_thermophila_00309875_XX_TPB1	Ku_PK_bind	PF08785.17	120	7.1e-11	30.9	17	119	418	514	0.3
+Tetrahymena_thermophila_00653910_XX_LIA5	DDE_Tnp_1_7	PF13843.13	349	2.3e-61	196.4	2	349	347	670	0.57
+Tetrahymena_thermophila_00653910_XX_LIA5	zf-Tnp_2	PF13842.13	60	5.8e-21	63.4	1	60	766	822	1.07
+Tetrahymena_thermophila_01107220_XX_TPB2	DDE_Tnp_1_7	PF13843.13	349	1.2e-110	358.4	1	349	153	530	1.03
+Tetrahymena_thermophila_DAA80465.1_XX_TPB6	DDE_Tnp_1_7	PF13843.13	349	1.7e-71	229.6	1	349	905	1287	0.66
+Tetrahymena_thermophila_DAA80465.1_XX_TPB6	Ku	PF02735.23	193	4.8e-28	86.7	3	188	232	442	0.47

@@ -1,0 +1,35 @@
+Filename	Top_Gene_Family	Top_Count	2_Gene_Family	2_Count	3_Gene_Family	3_Count	4_Gene_Family	4_Count
+PGML2.EukPhylo.tsv	no orthogroup	0	no orthogroup	0	no orthogroup	0	no orthogroup	0
+PGML4A.EukPhylo.tsv	no orthogroup	0	no orthogroup	0	no orthogroup	0	no orthogroup	0
+PGML3A.EukPhylo.tsv	no orthogroup	0	no orthogroup	0	no orthogroup	0	no orthogroup	0
+PGML3B.EukPhylo.tsv	no orthogroup	0	no orthogroup	0	no orthogroup	0	no orthogroup	0
+B.stoltei_2.EukPhylo.tsv	OG6_102536	1	no orthogroup	0	no orthogroup	0	no orthogroup	0
+O.trifallax_3.EukPhylo.tsv	OG6_102536	1	no orthogroup	0	no orthogroup	0	no orthogroup	0
+PGML1.EukPhylo.tsv	no orthogroup	0	no orthogroup	0	no orthogroup	0	no orthogroup	0
+PGML3C.EukPhylo.tsv	no orthogroup	0	no orthogroup	0	no orthogroup	0	no orthogroup	0
+PGML4B.EukPhylo.tsv	no orthogroup	0	no orthogroup	0	no orthogroup	0	no orthogroup	0
+LIA5.EukPhylo.tsv	no orthogroup	0	no orthogroup	0	no orthogroup	0	no orthogroup	0
+PGM.EukPhylo.tsv	OG6_101171	1	no orthogroup	0	no orthogroup	0	no orthogroup	0
+Protein-Matching-LIA5.Test.EukPhylo.tsv	no orthogroup	0	no orthogroup	0	no orthogroup	0	no orthogroup	0
+Protein-Matching-Tetrahymena_Borealis.Test.EukPhylo.tsv	no orthogroup	0	no orthogroup	0	no orthogroup	0	no orthogroup	0
+Protein-Matching-Tetrahymena_canadensis.Test.EukPhylo.tsv	no orthogroup	0	no orthogroup	0	no orthogroup	0	no orthogroup	0
+Protein-Matching-Tetrahymena_elliotti.Test.EukPhylo.tsv	no orthogroup	0	no orthogroup	0	no orthogroup	0	no orthogroup	0
+Protein-Matching-Tetrahymena_empidokyrea.Test.EukPhylo.tsv	no orthogroup	0	no orthogroup	0	no orthogroup	0	no orthogroup	0
+Protein-Matching-Tetrahymena_malaccensis.Test.EukPhylo.tsv	no orthogroup	0	no orthogroup	0	no orthogroup	0	no orthogroup	0
+Protein-Matching-Tetrahymena_paravorax.Test.EukPhylo.tsv	no orthogroup	0	no orthogroup	0	no orthogroup	0	no orthogroup	0
+Protein-Matching-Tetrahymena_pyriformis.Test.EukPhylo.tsv	no orthogroup	0	no orthogroup	0	no orthogroup	0	no orthogroup	0
+Protein-Matching-Tetrahymena_shanghaiensis.Test.EukPhylo.tsv	no orthogroup	0	no orthogroup	0	no orthogroup	0	no orthogroup	0
+Protein-Matching-Tetrahymena_vorax.Test.EukPhylo.tsv	no orthogroup	0	no orthogroup	0	no orthogroup	0	no orthogroup	0
+Protein-Matching-TPB1.Test.EukPhylo.tsv	OG6_102536	1	no orthogroup	0	no orthogroup	0	no orthogroup	0
+Protein-Matching-TPB2.Test.EukPhylo.tsv	OG6_101171	1	no orthogroup	0	no orthogroup	0	no orthogroup	0
+Protein-Matching-TPB6.Test.EukPhylo.tsv	OG6_111972	2	OG6_100364	2	OG6_102536	1	OG6_102575	1
+Protein-Matching-TPB7.Test.EukPhylo.tsv	no orthogroup	0	no orthogroup	0	no orthogroup	0	no orthogroup	0
+SteCoe.EukPhylo.tsv	OG6_102536	1	no orthogroup	0	no orthogroup	0	no orthogroup	0
+O.trifallax_ATP-Dep_DNA_Helicase.EukPhylo.tsv	OG6_102536	1	no orthogroup	0	no orthogroup	0	no orthogroup	0
+O.trifallax_ATP-Dep_2.EukPhylo.tsv	OG6_102536	1	no orthogroup	0	no orthogroup	0	no orthogroup	0
+B.stoltei_1.EukPhylo.tsv	OG6_105171	1	no orthogroup	0	no orthogroup	0	no orthogroup	0
+B.stoltei_3.EukPhylo.tsv	OG6_101171	1	no orthogroup	0	no orthogroup	0	no orthogroup	0
+B.stoltei_5.EukPhylo.tsv	OG6_105171	1	no orthogroup	0	no orthogroup	0	no orthogroup	0
+B.stoltei_4.EukPhylo.tsv	OG6_105171	1	no orthogroup	0	no orthogroup	0	no orthogroup	0
+PGML5A.EukPhylo.tsv	no orthogroup	0	no orthogroup	0	no orthogroup	0	no orthogroup	0
+PGML5B.EukPhylo.tsv	no orthogroup	0	no orthogroup	0	no orthogroup	0	no orthogroup	0

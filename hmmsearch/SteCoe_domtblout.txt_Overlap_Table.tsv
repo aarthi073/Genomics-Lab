@@ -1,0 +1,4 @@
+Sequence	Domain	Query Accession	qlen	E-Value	Full Score	hmm_from	hmm_to	ali_from	ali_to	normalized_score
+SteCoe_28760(Protein)	Ku_N	PF03731.22	220	2.90E-19	55.8	2	162	7	158	0.35
+SteCoe_28760(Protein)	Ku	PF02735.23	193	1.00E-37	116	6	188	228	422	0.64
+SteCoe_28760(Protein)	Ku_PK_bind	PF08785.17	120	1.60E-30	92	1	119	539	652	0.78

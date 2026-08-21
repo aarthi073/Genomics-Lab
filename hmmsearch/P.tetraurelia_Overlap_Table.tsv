@@ -1,0 +1,2 @@
+Sequence	Domain	Query Accession	qlen	E-Value	Full Score	hmm_from	hmm_to	ali_from	ali_to	normalized_score
+P_tetraurelia_xx_XP_001449211.1_xx_Tnp_1_7	DDE_Tnp_1_7	PF13843.13	349	1.8e-76	243.7	70	349	339	644	0.87

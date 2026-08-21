@@ -1,0 +1,2 @@
+Sequence	Domain	Query Accession	qlen	E-Value	Full Score	hmm_from	hmm_to	ali_from	ali_to	normalized_score
+H.sapiens_XX_NP_001263987.1_XX_ERCC6-PGBD3_fusion_protein_isoform_1	DDE_Tnp_1_7	PF13843.13	349	1.20E-107	346.3	1	349	609	967	1

@@ -1,0 +1,71 @@
+Major_Clade	Minor_Clade	Species_Count	Percentage_in_Family	Percentage_in_Dataset
+Alveolata	Apicomplexa	21	1.52	0.03
+Alveolata	Ciliophora	65	4.7	0.03
+Alveolata	Colpodellida	2	0.14	0.03
+Alveolata	Dinophyceae	77	5.57	0.03
+Amoebozoa		80	5.78	0.03
+Ancyromonadida	 Planomonadidae 	1	0.07	0.03
+Ancyromonadida	Ancyromonadidae	5	0.36	0.03
+Ancyromonadida	Planomonadidae	2	0.14	0.03
+Apusozoa	Apusomonadida	12	0.87	0.03
+Archaeplastida	Chlorophyta	195	14.1	0.03
+Archaeplastida	Glaucocystophyceae	3	0.22	0.03
+Archaeplastida	Rhodelphea	2	0.14	0.03
+Archaeplastida	Rhodophyta	38	2.75	0.03
+Archaeplastida	Streptophyta	52	3.76	0.03
+Breviatea		1	0.07	0.03
+CRuMs	Collodictyonidae	1	0.07	0.03
+CRuMs	Glissandrida	1	0.07	0.03
+CRuMs	Mantamonadidae	1	0.07	0.03
+CRuMs	Rigifila	1	0.07	0.03
+Cryptista	Cryptomonadales	8	0.58	0.03
+Cryptista	Geminigeraceae	2	0.14	0.03
+Cryptista	Goniomonadida	1	0.07	0.03
+Cryptista	Pyrenomonadaceae	6	0.43	0.03
+Cryptista	Pyrenomonadales	3	0.22	0.03
+Discoba	 Tsukubea	1	0.07	0.03
+Discoba	Euglenozoa	60	4.34	0.03
+Discoba	Heterolobosea	13	0.94	0.03
+Discoba	Jakobida	2	0.14	0.03
+Haptista	Centroplasthelida	1	0.07	0.03
+Haptista	Haptophyta	14	1.01	0.03
+incertae sedis	Malawimonada	1	0.07	0.03
+incertae sedis	Meteora	1	0.07	0.03
+incertae sedis	Microheliella	1	0.07	0.03
+Metamonada	Anaeramoebidae	2	0.14	0.03
+Metamonada	Fornicata	1	0.07	0.03
+Metamonada	Preaxostyla	2	0.14	0.03
+Opisthokonta	Choanoflagellata	23	1.66	0.03
+Opisthokonta	Filasterea	1	0.07	0.03
+Opisthokonta	Fungi	149	10.77	0.03
+Opisthokonta	Ichthyosporea	8	0.58	0.03
+Opisthokonta	incertae sedis	1	0.07	0.03
+Opisthokonta	Metazoa	126	9.11	0.03
+Opisthokonta	Rotosphaerida	2	0.14	0.03
+Provora	Nebulidea	1	0.07	0.03
+Provora	Nibbleridea	1	0.07	0.03
+Rhizaria	 Aquavolonida	1	0.07	0.03
+Rhizaria	Cercozoa	20	1.45	0.03
+Rhizaria	Endomyxa	7	0.51	0.03
+Rhizaria	Retaria	34	2.46	0.03
+Stramenopila	 Pinguiophyceae	1	0.07	0.03
+Stramenopila	 Raphidophyceae	3	0.22	0.03
+Stramenopila	 Synurophyceae	3	0.22	0.03
+Stramenopila	Actinophryidae	1	0.07	0.03
+Stramenopila	Bacillariophyta	149	10.77	0.03
+Stramenopila	Bolidophyceae	3	0.22	0.03
+Stramenopila	Chrysophyceae	15	1.08	0.03
+Stramenopila	Developea	4	0.29	0.03
+Stramenopila	Dictyochophyceae	5	0.36	0.03
+Stramenopila	Eustigmatophyceae	3	0.22	0.03
+Stramenopila	Incertae sedis	1	0.07	0.03
+Stramenopila	Labyrinthulomycetes	3	0.22	0.03
+Stramenopila	Olisthodiscophyceae	1	0.07	0.03
+Stramenopila	Oomycota	58	4.19	0.03
+Stramenopila	Opalozoa	7	0.51	0.03
+Stramenopila	Picophagaceae	1	0.07	0.03
+Stramenopila	Pirsoniales	1	0.07	0.03
+Stramenopila	PX Clade	68	4.92	0.03
+Stramenopila	pX Clade	1	0.07	0.03
+Stramenopila	Synchromophyceae	1	0.07	0.03
+		1	0.07	0.03

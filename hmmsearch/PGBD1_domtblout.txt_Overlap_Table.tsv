@@ -1,0 +1,3 @@
+Sequence	Domain	Query Accession	qlen	E-Value	Full Score	hmm_from	hmm_to	ali_from	ali_to	normalized_score
+NP_001372988.1	DDE_Tnp_1_7	PF13843.13	349	1.1000000000000001e-110	356.2	1	349	418	775	1.02
+NP_001372988.1	SCAN	PF02023.23	90	5e-43	131.2	1	87	40	126	1.53

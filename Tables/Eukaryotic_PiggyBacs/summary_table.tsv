@@ -1,0 +1,41 @@
+Filename	Top_Gene_Family	Top_Count	2_Gene_Family	2_Count	3_Gene_Family	3_Count	4_Gene_Family	4_Count
+Protein-Matching-CSB-PGBD3.Test.EukPhylo.tsv	OG6_103189	443	OG6_106802	349	OG6_105929	286	OG6_105504	4
+Protein-Matching-PGBD5.Test.EukPhylo.tsv	OG6_105171	88	OG6_101171	4	no orthogroup	0	no orthogroup	0
+Protein-Matching-TPB2.Test.EukPhylo.tsv	OG6_101171	2	no orthogroup	0	no orthogroup	0	no orthogroup	0
+Protein-Matching-H.armigera_PBLE.fasta.Test.EukPhylo.tsv	OG6_101171	21	OG6_105171	2	no orthogroup	0	no orthogroup	0
+Protein-Matching-PGBD2.Test.EukPhylo.tsv	OG6_119453	2416	OG6_120097	856	OG6_116018	547	OG6_104913	482
+Protein-Matching-PGBD1.Test.EukPhylo.tsv	OG6_119453	2416	OG6_120097	856	OG6_116018	547	OG6_104913	482
+CSB-PGBD_clade_results.tsv	no orthogroup	0	no orthogroup	0	no orthogroup	0	no orthogroup	0
+Kobuta_clade_results.tsv	no orthogroup	0	no orthogroup	0	no orthogroup	0	no orthogroup	0
+PGBD5_clade_results.tsv	no orthogroup	0	no orthogroup	0	no orthogroup	0	no orthogroup	0
+Protein-Matching-HSA2.Test.EukPhylo.tsv	OG6_105171	1	no orthogroup	0	no orthogroup	0	no orthogroup	0
+Protein-Matching-PGBD4.Test.EukPhylo.tsv	OG6_101171	166	OG6_105171	26	no orthogroup	0	no orthogroup	0
+Protein-Matching-Kobuta.Test.EukPhylo.tsv	OG6_101171	166	OG6_105171	26	no orthogroup	0	no orthogroup	0
+PGBD4_clade_results.tsv	no orthogroup	0	no orthogroup	0	no orthogroup	0	no orthogroup	0
+CSB-PGBD3_clade_results.tsv	no orthogroup	0	no orthogroup	0	no orthogroup	0	no orthogroup	0
+HSA4_clade_results.tsv	no orthogroup	0	no orthogroup	0	no orthogroup	0	no orthogroup	0
+PGM_clade_results.tsv	no orthogroup	0	no orthogroup	0	no orthogroup	0	no orthogroup	0
+major_clades_summary.tsv	no orthogroup	0	no orthogroup	0	no orthogroup	0	no orthogroup	0
+Protein-Matching-PigiBaku.fasta.Test.EukPhylo.tsv	OG6_105171	12	OG6_101171	11	OG6_108414	1	no orthogroup	0
+Protein-Matching-A.aegypti_PBLE.fasta.Test.EukPhylo.tsv	OG6_101171	3	no orthogroup	0	no orthogroup	0	no orthogroup	0
+Protein-Matching-NIPLE.fasta.Test.EukPhylo.tsv	OG6_101171	51	OG6_105171	42	no orthogroup	0	no orthogroup	0
+Protein-Matching-HSA1.Test.EukPhylo.tsv	OG6_105171	2	no orthogroup	0	no orthogroup	0	no orthogroup	0
+Protein-Matching-H.virescens_PBLE.fasta.Test.EukPhylo.tsv	OG6_101171	1	no orthogroup	0	no orthogroup	0	no orthogroup	0
+Protein-Matching-A.gambiae_PBLE.fasta.Test.EukPhylo.tsv	OG6_101171	4	OG6_115239	1	no orthogroup	0	no orthogroup	0
+Protein-Matching-C.intestinalis_PBLE.fasta.Test.EukPhylo.tsv	no orthogroup	0	no orthogroup	0	no orthogroup	0	no orthogroup	0
+Protein-Matching-P.gossypiella_PBLE.fasta.Test.EukPhylo.tsv	OG6_101171	41	OG6_105171	15	no orthogroup	0	no orthogroup	0
+Protein-Matching-O.furnacalis_PBLE.fasta.Test.EukPhylo.tsv	OG6_101171	24	OG6_105171	3	no orthogroup	0	no orthogroup	0
+Protein-Matching-HSA3.Test.EukPhylo.tsv	no orthogroup	0	no orthogroup	0	no orthogroup	0	no orthogroup	0
+Protein-Matching-HSA4.Test.EukPhylo.tsv	OG6_101171	7	OG6_105171	2	no orthogroup	0	no orthogroup	0
+Protein-Matching-A.gossypii_PBLE.fasta.Test.EukPhylo.tsv	OG6_105171	43	OG6_101171	42	no orthogroup	0	no orthogroup	0
+Protein-Matching-IFP2.fasta.Test.EukPhylo.tsv	OG6_101171	1	no orthogroup	0	no orthogroup	0	no orthogroup	0
+Protein-Matching-HSA5.Test.EukPhylo.tsv	OG6_105171	1	no orthogroup	0	no orthogroup	0	no orthogroup	0
+Protein-Matching-TxpB.Test.EukPhylo.tsv	OG6_101171	167	OG6_105171	26	no orthogroup	0	no orthogroup	0
+Protein-Matching-T.ni.fasta.Test.EukPhylo.tsv	OG6_101171	79	OG6_105171	28	no orthogroup	0	no orthogroup	0
+Protein-Matching-A.mellifera_PBLE.fasta.Test.EukPhylo.tsv	OG6_101171	10	no orthogroup	0	no orthogroup	0	no orthogroup	0
+Protein-Matching-PGM.Test.EukPhylo.tsv	OG6_101171	8	no orthogroup	0	no orthogroup	0	no orthogroup	0
+Protein-Matching-B.dorsalis_PBLE.fasta.Test.EukPhylo.tsv	OG6_101171	46	OG6_105171	41	no orthogroup	0	no orthogroup	0
+Protein-Matching-PiggyBat.fasta.Test.EukPhylo.tsv	OG6_101171	2	no orthogroup	0	no orthogroup	0	no orthogroup	0
+Protein-Matching-TPB2P.fasta.Test.EukPhylo.tsv	OG6_101171	2	no orthogroup	0	no orthogroup	0	no orthogroup	0
+Protein-Matching-Pokey.fasta.Test.EukPhylo.tsv	OG6_105171	2	no orthogroup	0	no orthogroup	0	no orthogroup	0
+Protein-Matching-TcPLE.fasta.Test.EukPhylo.tsv	OG6_105171	16	OG6_101171	3	no orthogroup	0	no orthogroup	0
